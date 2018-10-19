@@ -1,4 +1,4 @@
-const TRAITS = require("./traits");
+const TRAITS = require("../data/traits");
 // if there is no value for the birthdate and nickname passed.
 
 const DEFAULT_PROPERTIES = {
